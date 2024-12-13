@@ -1,0 +1,33 @@
+Masala Chai,20
+Green Tea,40
+Coca-Cola,25
+Mirinda,25
+Mineral Water,35
+Hot Dog,40
+Fresh Fruit Juice (Seasonal),55
+Salad,50
+Chicken Wings,65
+Ice Cream,65
+French Fries,65
+Donuts,70
+Tomato Soup,89
+Chicken Breast,90
+Club Sandwich,90
+Chilli Garlic Noodles,99
+Prawn Salad,99
+Fish Fry,100
+Vegetable Stir Fry,100
+Chicken Corn Soup,120
+Vegetable Fried Rice,149
+Pro Special Waffle,150
+Beef Burger,180
+Pasta in Twin Sauce,180
+Chocolate Brownie with Ice Cream,199
+Chicken Biryani,200
+Sweets,230
+Beef Tehari,250
+Chocolate Indulgence(Cake),257
+Beef Kebab with Naan,280
+Pizza BBQ Chicken(6 inch),300
+Yo chill soup,100
+nx tea,50
